@@ -1,0 +1,72 @@
+body{
+    background-color: lightblue;
+    color: black;
+    
+}
+
+.navbar-brand h1{
+    color: black;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+
+#header-nav{
+    background-color:palegoldenrod;
+    border-radius: 0;
+    border: 0;
+  
+}
+
+.navbar-brand{
+    padding-top: 15px;
+    
+}
+
+#nav-list{
+    margin-top: 10px;
+    background-color: pink;
+    border: 1px solid black;
+}
+
+#nav-list a{
+    font-weight: bold;
+    color: black;
+    font-size: 15px;
+    border: 1px solid black;
+    
+}
+
+#nav-list a:hover{
+    background-color: white;
+}
+
+section{
+    border: 1px solid black;
+    padding: 5px 10px 5px 10px;
+    background-color: palegoldenrod;
+  
+}
+
+#chicken{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;    
+}
+
+
+#main-section{
+    padding: 35px;
+    margin-bottom: 25px;
+}
+
+h2{
+    font-size: 25px;
+    color:black;
+    margin-top:15px;
+    margin-bottom:35px;
+}
